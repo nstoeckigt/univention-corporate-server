@@ -29,7 +29,7 @@
 	}],
 	"dependencies": {
 		"dojo": "~1.8",
-		"dijit": "~1.8",
+		"dijit": "~1.16",
 		"dojox": "~1.8"
 	},
 	"dojoBuild": "umc.profile.js"
